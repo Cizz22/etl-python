@@ -1,0 +1,9 @@
+customenv/
+*.pyc
+__pycache__/
+
+# SQLite
+*.db
+
+# files
+*.csv
